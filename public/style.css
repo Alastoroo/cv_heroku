@@ -1,12 +1,12 @@
 
 
 h1 {
-	color: #4FA584;
+	color: #3fc7f7;
 	font-size: 42px;
 }
 
 hr{
-	border-color: #4FA584;
+	border-color: #3fc7f7;
 	width: 35%;
 }
 
@@ -40,7 +40,7 @@ footer {
 
 .nav-wrapper{
 	background-color: white;
-	background: #4FA584;
+	background: #3fc7f7;
 
 }
 
